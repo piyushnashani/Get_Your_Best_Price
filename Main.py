@@ -62,7 +62,7 @@ class AmazonAPI:
             #checking the price after every 60 seconds
             while (price_after_few_minutes> Des_prod):
                 price_after_few_minutes = self.check_price(products, Des_prod, Des_Price,i, ask)
-                time.sleep(10)
+                time.sleep(7200)
             self.send_mail(Des_prod, products)
         pass
 
