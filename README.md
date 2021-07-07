@@ -6,7 +6,7 @@ Hey! Do you wanna purchase your favorite item from a popular e-commerce website 
 # Installation
 You will require Python3 for building this source code on your local machine. You can download the source code and install the dependencies given in requirement.txt, make sure to place your chrome driver file with these files and you can download your chrome driver file by following the steps: go to your browser-> settings -> about chrome -> check your chrome version-> go to https://chromedriver.chromium.org/downloads -> click on the link that defines you chrome version -> click on the file that defines your Operation system e.g.for windows it can be named as "	chromedriver_win32.zip"-> it will download a file -> unzip the file and place it with the files as shown in the picture below -> rename that file as "chromedriver" -> Place this file with these files. You may use pip to install this dependencies. Recommended operating system: It works fine on the Windows Operating system. You are good to go!
 
-![image](https://user-images.githubusercontent.com/63044831/124708398-da05ff00-df17-11eb-8c96-6b2805206053.png)
+![image](https://user-images.githubusercontent.com/63044831/124711316-8e555480-df1b-11eb-9cc1-cd3a5c842058.png)
 
 
 # One Time Configuration
