@@ -4,12 +4,12 @@ Amazon Price tracker
 Hey! Do you wanna purchase your favorite item from a popular e-commerce website like Amazon, but still waiting for the best price? Getting tired of opening and monitoring prices manually again and again? Here comes Get_Your_Price to your rescue by automating this boring process of manually opening and checking prices repeatedly. This application will not only monitor and plot beautiful price plots but also will take your desired value of the product, also your minimum and maximum price ,and will send you an email notification whenever the price falls below that desired value. It can even be deployed on cloud platforms. Crazy? Let's get started
 
 # Installation
-You will require Python3 for building this source code on your local machine. You can download the source code and install the dependencies given in requirement.txt, make sure to place your chrome driver file with these files and you can download your chrome driver file by following the steps: go to your browser-> settings -> about chrome -> check your chrome version-> go to https://chromedriver.chromium.org/downloads -> click on the link that defines you chrome version -> click on the file that defines your Operation system e.g.for windows it can be named as "	chromedriver_win32.zip"-> it will download a file -> unzip the file and place it with the files as shown in the picture below -> rename that file as "chromedriver" -> Place this file with these files. You may use pip to install this dependencies. Recommended operating system: It works fine on the Windows Operating system. You are good to go!
+You will require Python3 for building this source code on your local machine. You can download the source code and install the dependencies given in requirement.txt, make sure to place your chrome driver file with these files and you can download your chrome driver file by following the steps: go to your browser-> settings -> about chrome -> check your chrome version-> go to https://chromedriver.chromium.org/downloads -> click on the link that defines you chrome version -> click on the file that defines your Operation system e.g.for windows it can be named as "	chromedriver_win32.zip"-> it will download a file -> unzip the file and place it with the files as shown in the picture below -> rename that file as "chromedriver" -> Place this file with these files. Recommended operating system: It works fine on the Windows Operating system. You are good to go!
 
 ![image](https://user-images.githubusercontent.com/63044831/124711316-8e555480-df1b-11eb-9cc1-cd3a5c842058.png)
 
 
-For installing the libraries on pycharm follow the steps:
+For installing the libraries listed in the requirements.txt on pycharm follow the steps:
 Open File > Settings > Project from the PyCharm menu.
 Select your current project.
 Click the Python Interpreter tab within your project tab.
