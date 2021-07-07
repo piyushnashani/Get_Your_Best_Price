@@ -9,6 +9,13 @@ You will require Python3 for building this source code on your local machine. Yo
 ![image](https://user-images.githubusercontent.com/63044831/124711316-8e555480-df1b-11eb-9cc1-cd3a5c842058.png)
 
 
+For installing the libraries on pycharm follow the steps:
+Open File > Settings > Project from the PyCharm menu.
+Select your current project.
+Click the Python Interpreter tab within your project tab.
+Click the small + symbol to add a new library to the project.
+Now type in the library to be installed, for example Pandas, and click Install Package .
+
 # One Time Configuration
 You can use Pyhcarm, Visual Studio Code ,or any other source code editor to run the program. 
 To get started with the program and choose your desired product from the list of products, max and min range ,and the Desired price: follow the steps below
