@@ -1,0 +1,11 @@
+PyQt5==55.4
+Pillow==8.3.1
+arrow==1.1.1
+selenium==3.141.0
+numpy==1.21.0
+plotly==5.1.0
+bs4==0.0.1
+BeautifulSoup4==4.9.3
+requests==2.25.1
+matplotlib==3.4.2
+pandas==1.2.5
