@@ -1,4 +1,4 @@
-# Get_Your_Price
+# Get_Your_Best_Price
 Amazon Price tracker
 
 Hey! Do you wanna purchase your favorite item from a popular e-commerce website like Amazon, but still waiting for the best price? Getting tired of opening and monitoring prices manually again and again? Here comes Get_Your_Price to your rescue by automating this boring process of manually opening and checking prices repeatedly. This application will not only monitor and plot beautiful price plots but also will take your desired value of the product, also your minimum and maximum price ,and will send you an email notification whenever the price falls below that desired value. It can even be deployed on cloud platforms. Crazy? Let's get started
